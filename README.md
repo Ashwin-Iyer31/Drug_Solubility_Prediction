@@ -1,5 +1,5 @@
 # Drug_Solubility_Prediction
-Predict Solubility by applying OLS, Ridge and Decision Tree to predict the solubility of molecules
+Predict Solubility by applying OLS, Ridge and Decision Tree to predict the solubility of molecules.<br>
 Drug Solubility is an important Physical Chemical Property during drug design<br>
 
 Process:<br>
